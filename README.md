@@ -1,6 +1,6 @@
 # WebGL Shader Playground
 Real-time WebGL shader editor based on [WebGL boilerplate by Paul Irish](https://github.com/paulirish/webgl-boilerplate) .
-This work is very similar to [SHDR](http://shdr.bkcore.com), However, I made the code available to allow the user more freedom of experimenting with uniforms and attributes as they see fit. You might be interested in seeing the [code in action](http://experiments.mostafa.io/public/webgl-shader-playground/index.html) .
+This work is very similar to [SHDR](http://shdr.bkcore.com) but is much simpler and doesn't relay on THREE.JS so it might be useful if you want write shaders without relaying on libraries (e.g., if you are testing shaders to use in C++ environment). You might be interested in seeing the [code in action](http://experiments.mostafa.io/public/webgl-shader-playground/index.html) .
 
 
 # How to use
