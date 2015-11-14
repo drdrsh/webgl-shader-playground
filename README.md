@@ -1,6 +1,7 @@
 # WebGL Shader Playground
 Real-time WebGL shader editor based on [WebGL boilerplate by Paul Irish](https://github.com/paulirish/webgl-boilerplate) .
-This work is very similar to [SHDR](http://shdr.bkcore.com), However, I made the code available to allow the user more freedom of experimenting with uniforms and attributes as they see fit.
+This work is very similar to [SHDR](http://shdr.bkcore.com), However, I made the code available to allow the user more freedom of experimenting with uniforms and attributes as they see fit. You might be interested in seeing the [code in action](http://experiments.mostafa.io/public/webgl-shader-playground/index.html) .
+
 
 # How to use
 You will need to have [nodejs](https://nodejs.org/en/), [npm](https://www.npmjs.com/) and [bower](http://bower.io/) installed.
